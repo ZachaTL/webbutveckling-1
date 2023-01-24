@@ -1,0 +1,286 @@
+
+/* Del 2 */
+body{
+    background-color: black;
+    color: white;
+}
+.blackbox{
+    position: relative;
+    z-index: 3;
+    background-color: black;
+    width: 102%;
+    left: -8px;
+    height: 80px;
+    top: -8px;
+}
+#banner{
+    position: relative;
+    top: -3px;
+    width: 102%;
+    height: 80px;
+}
+.body{
+    position: relative;
+    z-index: 2;
+    top: -450px;
+    background-color: black;
+    width: 102%;
+    left: -7px;
+}
+.img{
+    position: relative;
+    z-index: 1;
+    top: -190px;
+}
+.img img{
+    width: 102%;
+    height: 25%;
+}
+.textbody{
+    position: relative;
+    z-index: 1;
+    top: -40px;
+    margin-left: 10%;
+    width: 65%;
+}
+h1{
+    position: relative;
+    z-index: 2;
+    left: 27%;
+    width: 47%;
+    font-size: 65px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+}
+h2{
+    color: rgb(208, 168, 92);
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    letter-spacing: 2.5px;
+}
+h2 img{
+    position: relative;
+    left: 1px;
+    width: 35px;
+    height: 35px;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+p{
+    position: relative;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    letter-spacing: 0.5px;
+}
+table{
+    position: relative;
+    z-index: 1;
+    top: -80px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    width: 92%;
+    color: grey;
+}
+table, tr, td{
+    border: 0.1px solid grey;
+    border-spacing: 0;
+}
+#media{
+    position: relative;
+    top: 2px;
+    left: 2px;
+    width: 150px;
+    height: 40px;
+}
+.heading{
+    width: 100%;
+    height: 50px;
+}
+.botline{
+    height: 40px;
+}
+#middle{
+    width: 70%;
+    font-size: x-small;
+    text-align: center;
+}
+#edges{
+    width: 15%;
+    font-size: x-small;
+    text-align: center;
+}
+#names{
+    color: orange;
+}
+.quote{
+    position: relative;
+    top: 15px;
+    font-size: 40px;
+    color: grey;
+}
+.names{
+    position: relative;
+    left: 30px;
+    font-size: small;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    color: grey;
+}
+img{
+    position: relative;
+    left: -7px;
+    top: 7px;
+    width: 25px;
+    height: 25px;
+}
+.border{
+    position: relative; 
+    left: -30px;
+    border: 1px solid grey;
+    border-top-right-radius: 50px;
+    padding: 20px;
+
+}
+.patchnotes{
+    position: relative;
+    left: 15px;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    font-size: small;
+}
+.patchnotes img{
+    position: relative;
+    top: -5px;
+    width: 100%;
+    height: 450px;
+}
+.patchnotes p{
+    position: relative;
+    left: -5px;
+}
+#icon{
+    position: relative;
+    top: -5px;
+    left: 15px;
+    height: 80px;
+    width: 80px;
+}
+#new{
+    position: relative;
+    top: -69px;
+    left: 40px;
+    background-color: green;
+    padding: 5px;
+    font-size: 6px
+}
+.yone{
+    margin-top: -10%;
+    margin-left: 16%;
+}
+#unforgotten{
+    position: relative;
+    top: -15px;
+    font-size: 12px;
+}
+.yonebio{
+    margin-left: -85px;
+    font-size: small;
+}
+ul, li{
+    padding: 10px;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+}
+
+/* Del 3 */
+
+/* Layout 1 */
+.layout1 h2{
+    font-style: normal;
+    color: white;
+    font-size: 160%;
+}
+.layout1 h3 {
+    position: relative;
+    left: 45px;
+    font-size: 11px;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    color: grey;
+}
+.layout1 p {
+    font-size: 12px;
+}
+#name{
+    position: relative;
+    top: -50px;
+    left: 35px;
+}
+#qbase{
+    position: relative;
+    left: 125px;
+    top: -60px;
+}
+#nowthat{
+    position: relative;
+    left: 30px;
+    width: 90%;
+}
+.layout1 .quote{
+    font-size: 36px;
+}
+#annoying{
+    position: relative;
+    top: -15px;
+}
+hr{
+    position: relative;
+    left: 25px;
+    width: 90%;
+    border-top: 1px;
+    border-color: grey;
+}
+.abilities{
+    position: relative;
+    left: 65px;
+}
+#white{
+    color: white;
+}
+
+/* Layout 2 */
+.layout2 h2{
+    font-style: normal;
+    color: white;
+    font-size: 160%;
+}
+
+.layout2 h3 {
+    position: relative;
+    left: 45px;
+    font-size: 11px;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    color: grey;
+}
+
+.layout2 p {
+    font-size: 12px;
+}
+
+
+/* Layout 3 */
+.layout3 h2{
+    font-style: normal;
+    color: white;
+    font-size: 160%;
+}
+.layout3 h3 {
+    position: relative;
+    left: 45px;
+    font-size: 11px;
+    font-family: Spiegel, "Arial Narrow", Arial, sans-serif;
+    color: grey;
+}
+.layout3 p {
+    font-size: 12px;
+}

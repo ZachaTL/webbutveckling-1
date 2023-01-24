@@ -1,0 +1,36 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
+table, tr, td{
+    border: 1px solid;
+}
+.top{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.red{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: white;
+}
+img{
+    height: 240px;
+    width: 150px;
+}
+#smallimg{
+    height: 170px;
+    width: 150px;
+    position: relative;
+    top: 35px;
+}
+.left{
+    text-align: left;
+    margin-top: -55px;
+    width: 114px;
+}
